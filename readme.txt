@@ -10,10 +10,12 @@ Right click context menu brings up options for color, keyboard resizing, and to 
 
 The StreamKB window can be dragged from any point inside the program window.
 
-Color and position settings are saved in StreamKB.settings, which can be deleted to return to default.
+Color and position settings are saved in StreamKB.settings, which can be deleted to return to 
+
+default.
 
 StreamKB is released under the GNU GPLv3 Licence, see licence-gpl.txt for more info.
 
 Note:
-StreamKB relies on the JNativeHook library, which is also distributed under GNU GPLv3.
+StreamKB requires the JNativeHook library (GNU GPLv3) to be in the build path to compile.
 To obtain this library go to: http://code.google.com/p/jnativehook/
