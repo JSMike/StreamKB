@@ -15,7 +15,5 @@ Color and position settings are saved in StreamKB.settings, which can be deleted
 StreamKB is released under the GNU GPLv3 Licence, see licence-gpl.txt for more info.
 
 Note:
-
 StreamKB relies on the JNativeHook library, which is also distributed under GNU GPLv3.
-
 To obtain this library go to: http://code.google.com/p/jnativehook/
