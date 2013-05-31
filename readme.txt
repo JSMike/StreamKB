@@ -1,5 +1,5 @@
-StreamKB
-========
+StreamKB 1.0
+============
 StreamKB is an on-screen keyboard that highlights which keys are being pressed.
 
 The purpose for this is to allow streamers to show their viewers which keys are being pressed.
