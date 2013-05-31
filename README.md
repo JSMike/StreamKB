@@ -12,7 +12,7 @@ The StreamKB window can be dragged from any point inside the program window.
 
 Color and position settings are saved in StreamKB.settings, which can be deleted to return to default.
 
-This application is being released under the GNU GPLv3 Licence and is for non-commercial use only, see licence-gpl.txt for more info.
+StreamKB is released under the GNU GPLv3 Licence, see licence-gpl.txt for more info.
 
 Note:
 StreamKB relies on the JNativeHook library, which is also distributed under GNU GPLv3.
