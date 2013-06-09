@@ -1,4 +1,4 @@
-StreamKB 1.0
+StreamKB 1.1
 ============
 StreamKB is an on-screen keyboard that highlights which keys are being pressed.
 
@@ -19,3 +19,7 @@ StreamKB is released under the GNU GPLv3 Licence, see licence-gpl.txt for more i
 Note:
 StreamKB requires the JNativeHook library (GNU GPLv3) to be in the build path to compile.
 To obtain this library go to: http://code.google.com/p/jnativehook/
+
+Patch Notes:
+1.1: Updated from using KeyCodes to RawCodes. This made it much easier to create other keyboards.
+     Also released AZERTY Version.
