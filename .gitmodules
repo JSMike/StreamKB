@@ -1,0 +1,6 @@
+[submodule "lib/jnativehook"]
+	path = lib/jnativehook
+	url = git://github.com/kwhat/jnativehook.git 
+[submodule "lib/JSON-java"]
+	path = lib/JSON-java
+	url = git://github.com/douglascrockford/JSON-java.git
